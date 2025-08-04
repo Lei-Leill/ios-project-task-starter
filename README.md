@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-![](project7_demo.gif)
+![](project7_video.gif)
 
 ## Notes
 
