@@ -13,7 +13,7 @@ class TaskListViewController: UIViewController {
 
     // The main tasks array initialized with a default value of an empty array.
     var tasks = [Task]()
-
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
